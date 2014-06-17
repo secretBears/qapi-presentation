@@ -1,0 +1,14 @@
+## QAPI Features
+- User Features
+	- Get Location to given coordinates
+	- Registeration for API token
+- Backend Features
+	- Create templates via editor
+	- Caching
+		- Questions
+		- Answers
+		- Places
+	- Clear Caches
+	- Report Problem
+	- See API usage
+	- Awesome 404 Page
