@@ -1,8 +1,8 @@
 ## Angular Frontend Features
 
-* Responsive
-* Multiplayer
-* Request with current location
-* AngularJS
-* Game Model
-* angular-loading-bar
+* Create Question Set to current location
+	* with 10 Questions
+* Authentication
+* Play against other player
+* Find all user
+* Find all games where you can participate
